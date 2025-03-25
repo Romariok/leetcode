@@ -5,8 +5,8 @@
 | &#9745; | 228  |                                          [summary ranges](https://leetcode.com/problems/summary-ranges/)                                          |    **Easy**    | [here](/java/228.java)  |
 | &#9745; | 443  |                                      [string compression](https://leetcode.com/problems/string-compression/)                                      |   **Medium**   | [here](/java/443.java) |
 | &#9745; | 206  |                                     [reverse linked list](https://leetcode.com/problems/reverse-linked-list/)                                     |    **Easy**    | [here](/java/206.java) |
-| &#9744; |  22  |                                    [generate parentheses](https://leetcode.com/problems/generate-parentheses/)                                    |   **Medium**   |   |
-| &#9744; | 146  |                                               [lru cache](https://leetcode.com/problems/lru-cache/)                                               |   **Medium**   |  |
+| &#9745; |  22  |                                    [generate parentheses](https://leetcode.com/problems/generate-parentheses/)                                    |   **Medium**   | [here](/java/22.java)  |
+| &#9745; | 146  |                                               [lru cache](https://leetcode.com/problems/lru-cache/)                                               |   **Medium**   | [here](/java/146.java) |
 | &#9744; | 283  |                                             [move zeroes](https://leetcode.com/problems/move-zeroes/)                                             |    **Easy**    |   |
 | &#9744; | 125  |                                        [valid palindrome](https://leetcode.com/problems/valid-palindrome/)                                        |    **Easy**    | |
 | &#9744; |  49  |                                          [group anagrams](https://leetcode.com/problems/group-anagrams/)                                          |   **Medium**   |   |
