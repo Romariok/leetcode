@@ -9,7 +9,7 @@
 | &#9745; | 146  |                                               [lru cache](https://leetcode.com/problems/lru-cache/)                                               |   **Medium**   | [here](/java/146.java) |
 | &#9744; | 283  |                                             [move zeroes](https://leetcode.com/problems/move-zeroes/)                                             |    **Easy**    |   |
 | &#9744; | 125  |                                        [valid palindrome](https://leetcode.com/problems/valid-palindrome/)                                        |    **Easy**    | |
-| &#9744; |  49  |                                          [group anagrams](https://leetcode.com/problems/group-anagrams/)                                          |   **Medium**   |   |
+| &#9745; |  49  |                                          [group anagrams](https://leetcode.com/problems/group-anagrams/)                                          |   **Medium**   | [here](/java/49.java)  |
 | &#9744; | 1493 |                       [longest subarray](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/)                        |   **Medium**   | |
 | &#9744; |  20  |                                       [valid parentheses](https://leetcode.com/problems/valid-parentheses/)                                       |    **Easy**    |    |
 | &#9744; | 560  |                                   [subarray sum equals k](https://leetcode.com/problems/subarray-sum-equals-k/)                                   |   **Medium**   |  |
