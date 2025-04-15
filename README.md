@@ -12,19 +12,19 @@
 | &#9745; |  49  |                                          [group anagrams](https://leetcode.com/problems/group-anagrams/)                                          |   **Medium**   | [here](/java/49.java)  |
 | &#9745; | 1493 |                       [longest subarray](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/)                        |   **Medium**   | [here](/java/1493.java)|
 | &#9744; |  20  |                                       [valid parentheses](https://leetcode.com/problems/valid-parentheses/)                                       |    **Easy**    |    |
-| &#9744; | 560  |                                   [subarray sum equals k](https://leetcode.com/problems/subarray-sum-equals-k/)                                   |   **Medium**   |  |
-| &#9744; | 380  |                              [insert delete getrandom o1](https://leetcode.com/problems/insert-delete-getrandom-o1/)                              |   **Medium**   | |
-| &#9744; |  1   |                                                 [two sum](https://leetcode.com/problems/two-sum/)                                                 |    **Easy**    | |
+| &#9745; | 560  |                                   [subarray sum equals k](https://leetcode.com/problems/subarray-sum-equals-k/)                                   |   **Medium**   | [here](/java/560.java) |
+| &#9745; | 380  |                              [insert delete getrandom o1](https://leetcode.com/problems/insert-delete-getrandom-o1/)                              |   **Medium**   | [here](/java/380.java) |
+| &#9745; |  1   |                                                 [two sum](https://leetcode.com/problems/two-sum/)                                                 |    **Easy**    | [here](/java/1.java)|
 | &#9745; |  23  |                                    [merge k sorted lists](https://leetcode.com/problems/merge-k-sorted-lists/)                                    |    **Hard**    | [here](/java/23.java)  |
 | &#9744; | 567  |                                   [permutation in string](https://leetcode.com/problems/permutation-in-string/)                                   |   **Medium**   | |
-| &#9744; |  56  |                                         [merge intervals](https://leetcode.com/problems/merge-intervals/)                                         |   **Medium**   | |
+| &#9745; |  56  |                                         [merge intervals](https://leetcode.com/problems/merge-intervals/)                                         |   **Medium**   |[here](/java/56.java) |
 | &#9744; | 933  |                                  [number of recent calls](https://leetcode.com/problems/number-of-recent-calls/)                                  |    **Easy**    | |
-| &#9744; |  98  |                             [validate binary search tree](https://leetcode.com/problems/validate-binary-search-tree/)                             |   **Medium**   |  |
+| &#9745; |  98  |                             [validate binary search tree](https://leetcode.com/problems/validate-binary-search-tree/)                             |   **Medium**   | [here](/java/98.java) |
 | &#9744; | 232  |                            [implement queue using stacks](https://leetcode.com/problems/implement-queue-using-stacks/)                            |    **Easy**    | |
 | &#9744; |  59  |                                        [spiral matrix ii](https://leetcode.com/problems/spiral-matrix-ii/)                                        |   **Medium**   |  |
 | &#9744; | 1004 |                                [max consecutive ones iii](https://leetcode.com/problems/max-consecutive-ones-iii/)                                |   **Medium**   | |
 | &#9745; |  42  |                                     [trapping rain water](https://leetcode.com/problems/trapping-rain-water/)                                     |    **Hard**    | [here](/java/42.java)|
-| &#9744; |  3   |          [longest substring without repeating characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)          |   **Medium**   |   |
+| &#9745; |  3   |          [longest substring without repeating characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)          |   **Medium**   | [here](/java/3.java)  |
 | &#9744; |  2   |                                         [add two numbers](https://leetcode.com/problems/add-two-numbers/)                                         |   **Medium**   | |
 | &#9744; |  21  |                                  [merge two sorted lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                  |    **Easy**    |  |
 | &#9744; |  88  |                                      [merge sorted array](https://leetcode.com/problems/merge-sorted-array/)                                      |    **Easy**    | |
