@@ -21,11 +21,11 @@
 | &#9744; | 933  |                                  [number of recent calls](https://leetcode.com/problems/number-of-recent-calls/)                                  |    **Easy**    | |
 | &#9745; |  98  |                             [validate binary search tree](https://leetcode.com/problems/validate-binary-search-tree/)                             |   **Medium**   | [here](/java/98.java) |
 | &#9744; | 232  |                            [implement queue using stacks](https://leetcode.com/problems/implement-queue-using-stacks/)                            |    **Easy**    | |
-| &#9744; |  59  |                                        [spiral matrix ii](https://leetcode.com/problems/spiral-matrix-ii/)                                        |   **Medium**   |  |
-| &#9744; | 1004 |                                [max consecutive ones iii](https://leetcode.com/problems/max-consecutive-ones-iii/)                                |   **Medium**   | |
+| &#9745; |  59  |                                        [spiral matrix ii](https://leetcode.com/problems/spiral-matrix-ii/)                                        |   **Medium**   | [here](/java/59.java)  |
+| &#9745; | 1004 |                                [max consecutive ones iii](https://leetcode.com/problems/max-consecutive-ones-iii/)                                |   **Medium**   | [here](/java/1004.java)|
 | &#9745; |  42  |                                     [trapping rain water](https://leetcode.com/problems/trapping-rain-water/)                                     |    **Hard**    | [here](/java/42.java)|
 | &#9745; |  3   |          [longest substring without repeating characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)          |   **Medium**   | [here](/java/3.java)  |
-| &#9744; |  2   |                                         [add two numbers](https://leetcode.com/problems/add-two-numbers/)                                         |   **Medium**   | |
+| &#9745; |  2   |                                         [add two numbers](https://leetcode.com/problems/add-two-numbers/)                                         |   **Medium**   | [here](/java/2.java) |
 | &#9744; |  21  |                                  [merge two sorted lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                  |    **Easy**    |  |
 | &#9744; |  88  |                                      [merge sorted array](https://leetcode.com/problems/merge-sorted-array/)                                      |    **Easy**    | |
 | &#9744; | 101  |                                          [symmetric tree](https://leetcode.com/problems/symmetric-tree/)                                          |    **Easy**    |  |
@@ -47,7 +47,7 @@
 | &#9744; |  85  |                                       [maximal rectangle](https://leetcode.com/problems/maximal-rectangle/)                                       |    **Hard**    | |
 | &#9744; |  34  | [find first and last position of element in sorted array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) |   **Medium**   |  |
 | &#9744; | 150  |                        [evaluate reverse polish notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)                        |   **Medium**   | |
-| &#9744; | 279  |                                         [perfect squares](https://leetcode.com/problems/perfect-squares/)                                         |   **Medium**   |  |
+| &#9745; | 279  |                                         [perfect squares](https://leetcode.com/problems/perfect-squares/)                                         |   **Medium**   |[here](/java/279.java)  |
 | &#9744; |  28  |                                        [implement strstr](https://leetcode.com/problems/implement-strstr/)                                        |    **Easy**    |  |
 | &#9744; | 238  |                            [product of array except self](https://leetcode.com/problems/product-of-array-except-self/)                            |   **Medium**   ||
 | &#9744; |  71  |                                           [simplify path](https://leetcode.com/problems/simplify-path/)                                           |   **Medium**   |  |
