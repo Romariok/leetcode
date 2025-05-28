@@ -53,8 +53,11 @@
 | &#9744; |  71  |                                           [simplify path](https://leetcode.com/problems/simplify-path/)                                           |   **Medium**   |  |
 | &#9744; | 234  |                                  [palindrome linked list](https://leetcode.com/problems/palindrome-linked-list/)                                  |    **Easy**    | |
 
-# LeetCode tasks for practice
+# LeetCode tasks that came up in the interview
 
-| Status  |  #  |                               Title                               | **Difficulty** |                                    Solution                                    |
-| :-----: | :-: | :---------------------------------------------------------------: | :------------: | :----------------------------------------------------------------------------: |
-| &#9744; |  7  | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) |    **Easy**    | [here](https://github.com/VanjaRo/LeetCodeTasksForYandex/blob/main/tasks/7.go) |
+|   #  |                               Title                               |
+| :--: | :---------------------------------------------------------------: |
+|  33  | [search in rotated sorted array](https://leetcode.com/problems/search-in-rotated-sorted-array/) |
+|  3   | [longest substring without repeating characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 
+|  443   | [string compression](https://leetcode.com/problems/string-compression/)  | 
+|  ?   | Дан string с набором скобок. Нужно вычислить, сколько скобок нужно добавить, чтобы набор скобок стали вылидным |
