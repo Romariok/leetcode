@@ -16,7 +16,7 @@
 | &#9745; | 380  |                              [insert delete getrandom o1](https://leetcode.com/problems/insert-delete-getrandom-o1/)                              |   **Medium**   | [here](/java/380.java) |
 | &#9745; |  1   |                                                 [two sum](https://leetcode.com/problems/two-sum/)                                                 |    **Easy**    | [here](/java/1.java)|
 | &#9745; |  23  |                                    [merge k sorted lists](https://leetcode.com/problems/merge-k-sorted-lists/)                                    |    **Hard**    | [here](/java/23.java)  |
-| &#9744; | 567  |                                   [permutation in string](https://leetcode.com/problems/permutation-in-string/)                                   |   **Medium**   | |
+| &#9745; | 567  |                                   [permutation in string](https://leetcode.com/problems/permutation-in-string/)                                   |   **Medium**   | [here](/java/567.java)|
 | &#9745; |  56  |                                         [merge intervals](https://leetcode.com/problems/merge-intervals/)                                         |   **Medium**   |[here](/java/56.java) |
 | &#9744; | 933  |                                  [number of recent calls](https://leetcode.com/problems/number-of-recent-calls/)                                  |    **Easy**    | |
 | &#9745; |  98  |                             [validate binary search tree](https://leetcode.com/problems/validate-binary-search-tree/)                             |   **Medium**   | [here](/java/98.java) |
@@ -36,10 +36,10 @@
 | &#9744; | 658  |                                 [find k closest elements](https://leetcode.com/problems/find-k-closest-elements/)                                 |   **Medium**   | |
 | &#9744; | 200  |                                       [number of islands](https://leetcode.com/problems/number-of-islands/)                                       |   **Medium**   |  |
 | &#9744; | 392  |                                          [is subsequence](https://leetcode.com/problems/is-subsequence/)                                          |    **Easy**    | |
-| &#9744; | 849  |                     [maximize distance to closest person](https://leetcode.com/problems/maximize-distance-to-closest-person/)                     |   **Medium**   ||
+| &#9745; | 849  |                     [maximize distance to closest person](https://leetcode.com/problems/maximize-distance-to-closest-person/)                     |   **Medium**   | [here](/java/849.java)|
 | &#9744; |  4   |                             [median of two sorted arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)                             |    **Hard**    |  |
-| &#9744; | 974  |                            [subarray sums divisible by k](https://leetcode.com/problems/subarray-sums-divisible-by-k/)                            |   **Medium**   |  |
-| &#9744; |  33  |                          [search in rotated sorted array](https://leetcode.com/problems/search-in-rotated-sorted-array/)                          |   **Medium**   |   |
+| &#9745; | 974  |                            [subarray sums divisible by k](https://leetcode.com/problems/subarray-sums-divisible-by-k/)                            |   **Medium**   | [here](/java/974.java) |
+| &#9745; |  33  |                          [search in rotated sorted array](https://leetcode.com/problems/search-in-rotated-sorted-array/)                          |   **Medium**   | [here](/java/33.java)  |
 | &#9744; | 449  |                           [serialize and deserialize bst](https://leetcode.com/problems/serialize-and-deserialize-bst/)                           |   **Medium**   | |
 | &#9744; | 977  |                               [squares of a sorted array](https://leetcode.com/problems/squares-of-a-sorted-array/)                               |    **Easy**    | |
 | &#9744; | 350  |                           [intersection of two arrays ii](https://leetcode.com/problems/intersection-of-two-arrays-ii/)                           |    **Easy**    |  |
