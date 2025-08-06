@@ -30,8 +30,8 @@
 | &#9744; |  88  |                                      [merge sorted array](https://leetcode.com/problems/merge-sorted-array/)                                      |    **Easy**    | |
 | &#9745; | 101  |                                          [symmetric tree](https://leetcode.com/problems/symmetric-tree/)                                          |    **Easy**    | [here](/java/101.java)  |
 | &#9744; | 268  |                                          [missing number](https://leetcode.com/problems/missing-number/)                                          |    **Easy**    | |
-| &#9744; |  48  |                                            [rotate image](https://leetcode.com/problems/rotate-image/)                                            |   **Medium**   | |
-| &#9744; |  5   |                           [longest palindromic substring](https://leetcode.com/problems/longest-palindromic-substring/)                           |   **Medium**   | |
+| &#9745; |  48  |                                            [rotate image](https://leetcode.com/problems/rotate-image/)                                            |   **Medium**   | [here](/java/48.java)|
+| &#9745; |  5   |                           [longest palindromic substring](https://leetcode.com/problems/longest-palindromic-substring/)                           |   **Medium**   | [here](/java/5.java)|
 | &#9744; | 332  |                                   [reconstruct itinerary](https://leetcode.com/problems/reconstruct-itinerary/)                                   |   **Medium**   |  |
 | &#9744; | 658  |                                 [find k closest elements](https://leetcode.com/problems/find-k-closest-elements/)                                 |   **Medium**   | |
 | &#9744; | 200  |                                       [number of islands](https://leetcode.com/problems/number-of-islands/)                                       |   **Medium**   |  |
