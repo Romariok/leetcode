@@ -7,7 +7,7 @@
 | &#9745; | 206  |                                     [reverse linked list](https://leetcode.com/problems/reverse-linked-list/)                                     |    **Easy**    | [here](/java/206.java) |
 | &#9745; |  22  |                                    [generate parentheses](https://leetcode.com/problems/generate-parentheses/)                                    |   **Medium**   | [here](/java/22.java)  |
 | &#9745; | 146  |                                               [lru cache](https://leetcode.com/problems/lru-cache/)                                               |   **Medium**   | [here](/java/146.java) |
-| &#9744; | 283  |                                             [move zeroes](https://leetcode.com/problems/move-zeroes/)                                             |    **Easy**    |   |
+| &#9745; | 283  |                                             [move zeroes](https://leetcode.com/problems/move-zeroes/)                                             |    **Easy**    |  [here](/java/283.java) |
 | &#9744; | 125  |                                        [valid palindrome](https://leetcode.com/problems/valid-palindrome/)                                        |    **Easy**    | |
 | &#9745; |  49  |                                          [group anagrams](https://leetcode.com/problems/group-anagrams/)                                          |   **Medium**   | [here](/java/49.java)  |
 | &#9745; | 1493 |                       [longest subarray](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/)                        |   **Medium**   | [here](/java/1493.java)|
@@ -45,8 +45,8 @@
 | &#9744; | 350  |                           [intersection of two arrays ii](https://leetcode.com/problems/intersection-of-two-arrays-ii/)                           |    **Easy**    |  |
 | &#9744; |  19  |                        [remove nth node from end of list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)                        |   **Medium**   | |
 | &#9744; |  85  |                                       [maximal rectangle](https://leetcode.com/problems/maximal-rectangle/)                                       |    **Hard**    | |
-| &#9744; |  34  | [find first and last position of element in sorted array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) |   **Medium**   |  |
-| &#9744; | 150  |                        [evaluate reverse polish notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)                        |   **Medium**   | |
+| &#9745; |  34  | [find first and last position of element in sorted array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) |   **Medium**   | [here](/java/34.java) |
+| &#9745; | 150  |                        [evaluate reverse polish notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)                        |   **Medium**   | [here](/java/150.java) |
 | &#9745; | 279  |                                         [perfect squares](https://leetcode.com/problems/perfect-squares/)                                         |   **Medium**   |[here](/java/279.java)  |
 | &#9744; |  28  |                                        [implement strstr](https://leetcode.com/problems/implement-strstr/)                                        |    **Easy**    |  |
 | &#9744; | 238  |                            [product of array except self](https://leetcode.com/problems/product-of-array-except-self/)                            |   **Medium**   ||
