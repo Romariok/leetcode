@@ -11,7 +11,7 @@
 | &#9744; | 125  |                                        [valid palindrome](https://leetcode.com/problems/valid-palindrome/)                                        |    **Easy**    | |
 | &#9745; |  49  |                                          [group anagrams](https://leetcode.com/problems/group-anagrams/)                                          |   **Medium**   | [here](/java/49.java)  |
 | &#9745; | 1493 |                       [longest subarray](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/)                        |   **Medium**   | [here](/java/1493.java)|
-| &#9744; |  20  |                                       [valid parentheses](https://leetcode.com/problems/valid-parentheses/)                                       |    **Easy**    |    |
+| &#9745; |  20  |                                       [valid parentheses](https://leetcode.com/problems/valid-parentheses/)                                       |    **Easy**    |  [here](/java/20.java)  |
 | &#9745; | 560  |                                   [subarray sum equals k](https://leetcode.com/problems/subarray-sum-equals-k/)                                   |   **Medium**   | [here](/java/560.java) |
 | &#9745; | 380  |                              [insert delete getrandom o1](https://leetcode.com/problems/insert-delete-getrandom-o1/)                              |   **Medium**   | [here](/java/380.java) |
 | &#9745; |  1   |                                                 [two sum](https://leetcode.com/problems/two-sum/)                                                 |    **Easy**    | [here](/java/1.java)|
@@ -32,7 +32,7 @@
 | &#9744; | 268  |                                          [missing number](https://leetcode.com/problems/missing-number/)                                          |    **Easy**    | |
 | &#9745; |  48  |                                            [rotate image](https://leetcode.com/problems/rotate-image/)                                            |   **Medium**   | [here](/java/48.java)|
 | &#9745; |  5   |                           [longest palindromic substring](https://leetcode.com/problems/longest-palindromic-substring/)                           |   **Medium**   | [here](/java/5.java)|
-| &#9744; | 332  |                                   [reconstruct itinerary](https://leetcode.com/problems/reconstruct-itinerary/)                                   |   **Medium**   |  |
+| &#9744; | 332  |                                   [reconstruct itinerary](https://leetcode.com/problems/reconstruct-itinerary/)                                   |   **Hard**   |  |
 | &#9744; | 658  |                                 [find k closest elements](https://leetcode.com/problems/find-k-closest-elements/)                                 |   **Medium**   | |
 | &#9744; | 200  |                                       [number of islands](https://leetcode.com/problems/number-of-islands/)                                       |   **Medium**   |  |
 | &#9744; | 392  |                                          [is subsequence](https://leetcode.com/problems/is-subsequence/)                                          |    **Easy**    | |
@@ -49,9 +49,9 @@
 | &#9745; | 150  |                        [evaluate reverse polish notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)                        |   **Medium**   | [here](/java/150.java) |
 | &#9745; | 279  |                                         [perfect squares](https://leetcode.com/problems/perfect-squares/)                                         |   **Medium**   |[here](/java/279.java)  |
 | &#9744; |  28  |                                        [implement strstr](https://leetcode.com/problems/implement-strstr/)                                        |    **Easy**    |  |
-| &#9744; | 238  |                            [product of array except self](https://leetcode.com/problems/product-of-array-except-self/)                            |   **Medium**   ||
-| &#9744; |  71  |                                           [simplify path](https://leetcode.com/problems/simplify-path/)                                           |   **Medium**   |  |
-| &#9744; | 234  |                                  [palindrome linked list](https://leetcode.com/problems/palindrome-linked-list/)                                  |    **Easy**    | |
+| &#9745; | 238  |                            [product of array except self](https://leetcode.com/problems/product-of-array-except-self/)                            |   **Medium**   | [here](/java/238.java)|
+| &#9745; |  71  |                                           [simplify path](https://leetcode.com/problems/simplify-path/)                                           |   **Medium**   | [here](/java/71.java) |
+| &#9745; | 234  |                                  [palindrome linked list](https://leetcode.com/problems/palindrome-linked-list/)                                  |    **Easy**    | [here](/java/234.java)|
 
 # LeetCode tasks that came up in the interview
 
