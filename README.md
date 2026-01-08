@@ -35,7 +35,7 @@
 | &#9744; | 332  |                                   [reconstruct itinerary](https://leetcode.com/problems/reconstruct-itinerary/)                                   |   **Hard**   |  |
 | &#9745; | 658  |                                 [find k closest elements](https://leetcode.com/problems/find-k-closest-elements/)                                 |   **Medium**   |[here](/cpp/658.cpp)|
 | &#9744; | 200  |                                       [number of islands](https://leetcode.com/problems/number-of-islands/)                                       |   **Medium**   |  |
-| &#9744; | 392  |                                          [is subsequence](https://leetcode.com/problems/is-subsequence/)                                          |    **Easy**    | |
+| &#9745; | 392  |                                          [is subsequence](https://leetcode.com/problems/is-subsequence/)                                          |    **Easy**    | [here](/cpp/392.cpp) |
 | &#9745; | 849  |                     [maximize distance to closest person](https://leetcode.com/problems/maximize-distance-to-closest-person/)                     |   **Medium**   | [here](/java/849.java)|
 | &#9744; |  4   |                             [median of two sorted arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)                             |    **Hard**    |  |
 | &#9745; | 974  |                            [subarray sums divisible by k](https://leetcode.com/problems/subarray-sums-divisible-by-k/)                            |   **Medium**   | [here](/java/974.java) |
@@ -53,11 +53,28 @@
 | &#9745; |  71  |                                           [simplify path](https://leetcode.com/problems/simplify-path/)                                           |   **Medium**   | [here](/java/71.java) |
 | &#9745; | 234  |                                  [palindrome linked list](https://leetcode.com/problems/palindrome-linked-list/)                                  |    **Easy**    | [here](/java/234.java)|
 
-# LeetCode tasks that came up in the interview
+# Another LeetCode tasks
 
-|   #  |                               Title                               |
-| :--: | :---------------------------------------------------------------: |
-|  33  | [search in rotated sorted array](https://leetcode.com/problems/search-in-rotated-sorted-array/) |
-|  3   | [longest substring without repeating characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 
-|  443   | [string compression](https://leetcode.com/problems/string-compression/)  | 
-|  ?   | Дан string с набором скобок. Нужно вычислить, сколько скобок нужно добавить, чтобы набор скобок стали вылидным |
+| Status  |  #   |                                                                       Title                                                                       | **Difficulty** |                                     Solution                                      |
+| :-----: | :--: | :-----------------------------------------------------------------------------------------------------------------------------------------------: | :------------: | :-------------------------------------------------------------------------------: |
+| &#9745; | 78  |                                          [subsets](https://leetcode.com/problems/subsets/)                                          |    **Medium**    | [here](/cpp/78.cpp)  |
+
+
+# Tasks that came up in the interview
+
+|                                                                       Title                                                                       |                                     Solution                                      |
+| :--: | :-----------------------------------------------------------------------------------------------------------------------------------------------: |:-------------------------------------------------------------------------------: |
+| Дан string с набором скобок. Нужно вычислить, сколько скобок нужно добавить, чтобы набор скобок стали вылидным | |
+| [anagramm diff](./tasks/anagramDiff.md) | |
+| [minimal mul](./tasks/minimalMul.md) | |
+
+
+1. пользователь нажал кнопку (user_id)
+2. за какой-то промежуток времени начиная с null до прошлого (окно), которые выполнили действие k раз
+
+конструктор класса
+window -- размер окна, k -- кол-во взаимодействий пользователя за последние window сек
+
+
+реализовать функцию: 2 строки args
+можно ли из первой получить вторю за action_limit<=1 (удаление, добавление символа, изменение)
